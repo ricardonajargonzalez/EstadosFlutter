@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Material App',
-      initialRoute: 'Pagina1',
+      initialRoute: 'pagina1',
       routes: {
         'pagina1' : ( _ ) => Pagina1Page(),
         'pagina2' : ( _ ) => Pagina2Page()
