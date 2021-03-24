@@ -2,6 +2,7 @@ import 'package:estados/pages/pagina1_pages.dart';
 import 'package:estados/pages/pagina2_pages.dart';
 import 'package:flutter/material.dart';
  
+ 
 void main() => runApp(MyApp());
  
 class MyApp extends StatelessWidget {
